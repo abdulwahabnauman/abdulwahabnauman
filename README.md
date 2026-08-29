@@ -42,13 +42,6 @@ Email         abdulwahabnauman2006@gmail.com
   <img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulwahabnauman&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </picture>
 
-## 🏆 GitHub Trophies
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-flame.vercel.app/?username=abdulwahabnauman&theme=onedark&no-frame=false&no-bg=true&margin-w=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-flame.vercel.app/?username=abdulwahabnauman&theme=flat&no-frame=false&no-bg=true&margin-w=4">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy-flame.vercel.app/?username=abdulwahabnauman&theme=onedark&no-frame=false&no-bg=true&margin-w=4">
-</picture>
-
 ### ✍️ Random Dev Quote
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">

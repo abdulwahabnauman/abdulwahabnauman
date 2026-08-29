@@ -49,13 +49,6 @@ Email         abdulwahabnauman2006@gmail.com
   <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </picture>
 
-### 🔝 Top Contributed Repo
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contrib-stats.vercel.app/abdulwahabnauman/contributed.svg?max_repos=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contrib-stats.vercel.app/abdulwahabnauman/contributed.svg?max_repos=5">
-  <img alt="Top Contributed Repo" src="https://github-contrib-stats.vercel.app/abdulwahabnauman/contributed.svg?max_repos=5">
-</picture>
-
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulwahabnauman/abdulwahabnauman/output/github-contribution-grid-snake-dark.svg">
